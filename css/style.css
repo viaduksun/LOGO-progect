@@ -751,7 +751,7 @@ ul li .sel.selected {
 .footer__list li a{
     font-size: 16px;
     line-height: 28px;
-    color: #fff;
+    color: rgb(255, 247, 247);
     padding-left: 35px;
     position: relative;
 }
@@ -785,7 +785,7 @@ ul li .sel.selected {
 }
 .footer__copy {
     min-height: 45px;
-    background: #303030;
+    background: #252525;
     text-align: center;
     
 }
